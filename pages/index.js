@@ -43,7 +43,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel in 5 mins - 123455
+              Instantly deploy your Next.js site to a public URL with Vercel in 5 mins - 123455ewds
             </p>
           </a>
         </div>
