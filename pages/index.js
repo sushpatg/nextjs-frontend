@@ -26,7 +26,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn about Next.js in an interactive course with quizzes!and games</p>
           </a>
 
           <a
@@ -43,7 +43,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel in 5 mins - 123455
+              Instantly deploy your Next.js site to a public URL with Vercel in 5 mins - 123455ewds
             </p>
           </a>
         </div>
